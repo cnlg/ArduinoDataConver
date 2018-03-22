@@ -1,11 +1,3 @@
-/** @brief 这里写你的摘要
- *  @file 你的文件名
- *  @author 谁tmd的搞的
- *  @version 版本了
- *  @date  你啥时候搞的
- *  @note       注解. 例如: 本文件有什么具体功能啊,使用时要注意什么啊…..
- *  @since    自从  例如: 自从2012年地球爆炸后这个文件就从地球上消失了…..
- */
 #include <Arduino.h>
 #include "DataConver.h"
 
